@@ -5,12 +5,11 @@ The **Baleana mysticetus**, commonly referred to as the *Bowhead whale*, is a sp
 This species is classified as a **baleen whale**, utilizing a **filter-feeding system** to feed on plankton and small fish. Additionally, the Bowhead whale is a **migratory species**, annually traveling from the Arctic to the subarctic regions and vice versa.
 
 Unfortunately, the Bowhead whale is currently an **endangered species**, with a population of only **10,000 individuals**.
-<figure>
-    <center><img src="https://www.fisheries.noaa.gov/s3/dam-migration/bowhead_whale.jpg" width = 1000/></center><br>
-    <center><b>Bowhead whale adult with calf</b></center><br>
-    <center><i>Image source: https://www.fisheries.noaa.gov/species/bowhead-whale</i></center><br>
-</figure>
-The **Foxe Basin** is a shallow oceanic basin located in the eastern Canadian Arctic, bounded by the *Melville Peninsula* to the east and the *Baffin Island* to the west. It is connected to the Hudson Bay through the *Hudson Strait*, and to the Labrador Sea through the *Fury and Hecla Strait*.
+
+<br><img src="https://www.fisheries.noaa.gov/s3/dam-migration/bowhead_whale.jpg" width = 600></img>
+<br><b>Bowhead whale adult with calf</b>. Image source: https://www.fisheries.noaa.gov/species/bowhead-whale
+        
+<br>The **Foxe Basin** is a shallow oceanic basin located in the eastern Canadian Arctic, bounded by the *Melville Peninsula* to the east and the *Baffin Island* to the west. It is connected to the Hudson Bay through the *Hudson Strait*, and to the Labrador Sea through the *Fury and Hecla Strait*.
 
 The basin has a diverse ecosystem that includes various **marine mammals**, such as *polar bears*, *narwhals*, and *beluga whales*, as well as several species of fish and seabirds. The Foxe Basin is also an important area for **Inuit communities**, who rely on its natural resources for their subsistence and cultural practices.
 
@@ -20,9 +19,8 @@ The basin has a diverse ecosystem that includes various **marine mammals**, such
 - **Ecosystem**: diverse, including marine mammals (polar bears, narwhals, beluga whales, bowhead whales), fish, and seabirds
 - **Importance**: critical to Inuit communities for subsistence and cultural practices.
 
-<center><img src="output_graph/study_area_sat.png" width=1000/></center><br>
-<center><b>Study area map with sattelite imagery of Foxe Basin</b></center><br>
-<center><i>Image source: Jacques Descloitres, MODIS Land Rapid Response Team,NASA/GSFC/</i></center><br>
+<br><img src="output_graph/study_area_sat.png" width=600/>
+<br><b>Study area map with sattelite imagery of Foxe Basin.</b>Image source: Jacques Descloitres, MODIS LRPT, NASA/GSFC
 
 # Data Source & References
 
