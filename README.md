@@ -6,9 +6,9 @@ This species is classified as a **baleen whale**, utilizing a **filter-feeding s
 
 Unfortunately, the Bowhead whale is currently an **endangered species**, with a population of only **10,000 individuals**.
 
-<center><img src="https://www.fisheries.noaa.gov/s3/dam-migration/bowhead_whale.jpg" width = 1000/></center>
+<br><center><img src="https://www.fisheries.noaa.gov/s3/dam-migration/bowhead_whale.jpg" width = 1000/></center>
 <center><b>Bowhead whale adult with calf</b></center>
-<center><i>Image source: https://www.fisheries.noaa.gov/species/bowhead-whale</i></center>
+<center><i>Image source: https://www.fisheries.noaa.gov/species/bowhead-whale</i></center><br>
 
 The **Foxe Basin** is a shallow oceanic basin located in the eastern Canadian Arctic, bounded by the *Melville Peninsula* to the east and the *Baffin Island* to the west. It is connected to the Hudson Bay through the *Hudson Strait*, and to the Labrador Sea through the *Fury and Hecla Strait*.
 
@@ -20,9 +20,9 @@ The basin has a diverse ecosystem that includes various **marine mammals**, such
 - **Ecosystem**: diverse, including marine mammals (polar bears, narwhals, beluga whales, bowhead whales), fish, and seabirds
 - **Importance**: critical to Inuit communities for subsistence and cultural practices.
 
-<center><img src="output_graph/study_area_sat.png" width=1000/></center>
+<br><center><img src="output_graph/study_area_sat.png" width=1000/></center>
 <center><b>Study area map with sattelite imagery of Foxe Basin</b></center>
-<center><i>Image source: Jacques Descloitres, MODIS Land Rapid Response Team,NASA/GSFC/</i></center>
+<center><i>Image source: Jacques Descloitres, MODIS Land Rapid Response Team,NASA/GSFC/</i></center><br>
 
 # Data Source & References
 
