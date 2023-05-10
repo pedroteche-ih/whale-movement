@@ -5,11 +5,11 @@ The **Baleana mysticetus**, commonly referred to as the *Bowhead whale*, is a sp
 This species is classified as a **baleen whale**, utilizing a **filter-feeding system** to feed on plankton and small fish. Additionally, the Bowhead whale is a **migratory species**, annually traveling from the Arctic to the subarctic regions and vice versa.
 
 Unfortunately, the Bowhead whale is currently an **endangered species**, with a population of only **10,000 individuals**.
-
-<center><img src="https://www.fisheries.noaa.gov/s3/dam-migration/bowhead_whale.jpg" width = 1000/></center><br>
-<center><b>Bowhead whale adult with calf</b></center><br>
-<center><i>Image source: https://www.fisheries.noaa.gov/species/bowhead-whale</i></center><br>
-
+<figure>
+    <center><img src="https://www.fisheries.noaa.gov/s3/dam-migration/bowhead_whale.jpg" width = 1000/></center><br>
+    <center><b>Bowhead whale adult with calf</b></center><br>
+    <center><i>Image source: https://www.fisheries.noaa.gov/species/bowhead-whale</i></center><br>
+</figure>
 The **Foxe Basin** is a shallow oceanic basin located in the eastern Canadian Arctic, bounded by the *Melville Peninsula* to the east and the *Baffin Island* to the west. It is connected to the Hudson Bay through the *Hudson Strait*, and to the Labrador Sea through the *Fury and Hecla Strait*.
 
 The basin has a diverse ecosystem that includes various **marine mammals**, such as *polar bears*, *narwhals*, and *beluga whales*, as well as several species of fish and seabirds. The Foxe Basin is also an important area for **Inuit communities**, who rely on its natural resources for their subsistence and cultural practices.
